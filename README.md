@@ -5,7 +5,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)
 * Belajar perencanaan modifikasi aplikasi perangkat lunak.
 * Belajar dari konsep dasar pemrograman.
 
-**10 Februari 2026**
+**10 Februari 2026**  
 Pengenalan ke Logika Pemrograman (Programming Logic 101)
 * Belajar tentang logika aritmatika, logika perbandingan, dan logika perulangan.
 * Membahas tentang gerbang logika.
